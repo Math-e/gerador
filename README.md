@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Listagem de palavras geradas automaticamente e com marcação com like.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
